@@ -1,5 +1,6 @@
 a = -9
 b = 4
+C = 0
 
 
 if a > b:
@@ -8,5 +9,3 @@ if a > b:
         print('b não é maior que a nem positivo')
 else:
     print('b menor que a')
-
-
